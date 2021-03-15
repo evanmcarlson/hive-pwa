@@ -5,7 +5,7 @@ This is the working repository for the Innovation Hive makerspace at the Univers
 
 ## Getting started
 
-We chose to use [Yarn](https://yarnpkg.com) for package management during development.
+We chose to use [Yarn](https://yarnpkg.com) for package management during development.  
 If you don't have yarn, install it via command line using `curl -o- -L https://yarnpkg.com/install.sh | bash`
 
 Once you have forked, cloned or downloaded the repository, follow these steps to develop on it locally:
